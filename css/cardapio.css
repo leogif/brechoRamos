@@ -1,0 +1,16 @@
+thead#cabecalho-menu {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+tbody#corpo-menu tr {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+tbody#corpo-menu td {
+	font-family: sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	text 	
+}
