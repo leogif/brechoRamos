@@ -56,6 +56,13 @@
 	text-transform: uppercase;
 	padding: 10px 0;
 	margin: auto;
+  font-family: 'Comfortaa', cursive;
+}
+
+#sobre {
+  font-family: 'Comfortaa', cursive;
+  padding-bottom: 50px;
+  color: #FF5A01;
 }
 
 .servicos i {
